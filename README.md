@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automation QA and Java.
 - 🌱 I’m currently learning Manual and Automation QA.
 - 💞️ I’m looking to collaborate on QA.
-- 📫 How to reach me - 0888 776 913, vicky_arsova@yahoo.com
+- 📫 How to reach me - 0888 776 913, victoriakaraolis@gmail.com
 
 
 <!---
